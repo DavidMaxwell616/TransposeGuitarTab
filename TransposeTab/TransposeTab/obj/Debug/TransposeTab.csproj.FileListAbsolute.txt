@@ -1,0 +1,8 @@
+c:\users\dmaxwell\documents\visual studio 2013\Projects\TransposeTab\TransposeTab\bin\Debug\TransposeTab.exe
+c:\users\dmaxwell\documents\visual studio 2013\Projects\TransposeTab\TransposeTab\bin\Debug\TransposeTab.pdb
+c:\users\dmaxwell\documents\visual studio 2013\Projects\TransposeTab\TransposeTab\obj\Debug\TransposeTab.csprojResolveAssemblyReference.cache
+c:\users\dmaxwell\documents\visual studio 2013\Projects\TransposeTab\TransposeTab\obj\Debug\TransposeTab.Form1.resources
+c:\users\dmaxwell\documents\visual studio 2013\Projects\TransposeTab\TransposeTab\obj\Debug\TransposeTab.Properties.Resources.resources
+c:\users\dmaxwell\documents\visual studio 2013\Projects\TransposeTab\TransposeTab\obj\Debug\TransposeTab.csproj.GenerateResource.Cache
+c:\users\dmaxwell\documents\visual studio 2013\Projects\TransposeTab\TransposeTab\obj\Debug\TransposeTab.exe
+c:\users\dmaxwell\documents\visual studio 2013\Projects\TransposeTab\TransposeTab\obj\Debug\TransposeTab.pdb
